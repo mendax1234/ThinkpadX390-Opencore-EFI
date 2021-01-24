@@ -63,19 +63,17 @@ Functioning normally.
 
 #### Display
 
-The model of Integrated Graphics is `Intel UHD Graphics 620`, faked to `Intel HD Graphics 620`. VRAM has been set to 3072 MB.
-
-The Discrete Graphics' name is `Radeon (TM) RX 550 (2GB)`. Disabled because macOS doesn't support Optimus technology.
+The model of Integrated Graphics is `Intel UHD Graphics 620`, faked to `Intel UHD Graphics 630 (Mobile) `.
 
 The HDMI is attached with `Intel UHD Graphics 620` and is functioning normally. `2K@60Hz` & `4K@30Hz` are supported.
 
 #### Audio
 
-Driven by AppleALC with `layout-id: 15`. Everything is working normally.
+Driven by AppleALC with `layout-id: 11`. Everything is working normally.
 
 #### Keyboard
 
-Functioning normally except the <kbd>Insert</kbd> key, which is not presented on Magic Keyboard. Keyboard backlight is working properly as well.
+Functioning normally except the <kbd>Insert</kbd> and <kbd>Alt</kbd> represents Window's <kbd>Ctrl</kbd> , which is not presented on Magic Keyboard. Keyboard backlight is working properly as well.
 
 #### SSD
 
