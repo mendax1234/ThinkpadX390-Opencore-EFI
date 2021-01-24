@@ -7,7 +7,13 @@
 # ThinkpadX390-Opencore-EFI
 
 ## 介绍
+
 **这包括一个EFl(Opencore)，它在Thinkpad-X390上工作完美**
+
+## Download
+
+**你可以按下此按钮或者转到"Releases"界面去下载最新版本的EFI [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/0.6.5/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
+
 ## 声明
 
 你的保修单现在无效了。如果你有任何顾虑，请在我的 EFI 取代你的 EFl 之前做一些研究。我不负责任何损失，包括但不限于内核恐慌，设备无法启动或不能正常工作，存储损坏或数据丢失，原子弹爆炸，第三次世界大战，谷歌和苹果都倒闭，等等
