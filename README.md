@@ -3,6 +3,21 @@
 ## Intro
  **This includes an EFI(Opencore) which works perfectly on Thinkpad-X390.**
 
+# ThinkPad X390 Hackintosh
+macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
+## Tested on:
+**Catalina**
+- 10.15.2
+- 10.15.3
+- 10.15.4
+- 10.15.5
+- 10.15.6
+- 10.15.7
+
+**Big Sur**
+- 11.0.1
+- 11.1
+
 ## Devices
 
 | Specifications | Details |
