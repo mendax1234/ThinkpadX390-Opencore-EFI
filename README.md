@@ -10,9 +10,16 @@
 ## Download
 **You can click this button or turn to the "Releases" page yourself and download the latest version [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/0.6.5/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
 
+## Disclaimer
+
+Your warranty is now void. Please do some research if you have any concerns before replacing your EFI with mine. I am not responsible for any loss, including but not limited to Kernel Panic, device fail to boot or can not function normally, storage damage or data loss, atomic bombing, World War III, Google and Apple both go into liquidation, and so on.
+
 ## ThinkPad X390 Hackintosh
+
 macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
+
 ### Tested on:
+
 **Catalina**
 - 10.15.2
 - 10.15.3
@@ -87,18 +94,21 @@ Functioning normally. Trackpoint and UltraNavs are working properly as well.
 
 #### Wireless Card
 
-Functioning normally.**Credit  [@zxystd's AirportItlwm](https://github.com/OpenIntelWireless/itlwm)**
+Functioning part normally.**Credit  [@zxystd's AirportItlwm](https://github.com/OpenIntelWireless/itlwm)**
+
+
+## What is not working
+
+- Airdrops and Handoff Fail to work properly.
 
 ## Recommended BIOS Config
 
 > Make sure you have disabled Windows login password before entering the BIOS, because you might not be able to login with "PIN" on Windows after configuring your BIOS as following.
 
 - Security
-  - Intel SGX: Disabled
+  - Intel SGX: Software Controlled
 - Boot
-  - Boot Mode: Both UEFI and Legacy
-  - Boot Priority: UEFI First
-  - Fast Boot: Disabled
+  - Boot Mode: UEFI Only
 
 ## Tips
 
@@ -122,4 +132,4 @@ If you have faced some strange issue (like audio device is not found) after boot
   - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
   - [@Acidanthera](https://github.com/acidanthera) for basic kexts.
   - [@BAndysc](https://github.com/BAndysc) for [Trackpoint and UltraNavs drive](https://github.com/BAndysc/VoodooPS2/tree/master)
-  
+  - [@SukkaW](https://github.com/SukkaW) for [Text and Templates](https://github.com/SukkaW/ThinkPad-E480-Hackintosh)
