@@ -6,9 +6,9 @@
 ## Download
 **You can click this button or turn to the "Releases" page yourself and download the latest version [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/0.6.5/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
 
-# ThinkPad X390 Hackintosh
+## ThinkPad X390 Hackintosh
 macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
-## Tested on:
+### Tested on:
 **Catalina**
 - 10.15.2
 - 10.15.3
@@ -47,12 +47,6 @@ XCPM power management is native supported. HWP is fully enabled as well.
 
 The power display is functioning normally.
 
-#### Wi-Fi
-
-The OEM wireless model is `Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC`. Suggest replacing it with BCM94352Z (DM1560).
-
-> BCM94350ZAE (DW1820A) might work with disabled pins. Not recommended.
-
 #### USB
 
 USB Ports Patching with HackinTool, `5 Gbps` for USB 3.0 (Dev Speed).
@@ -73,7 +67,7 @@ Driven by AppleALC with `layout-id: 11`. Everything is working normally.
 
 #### Keyboard
 
-Functioning normally except the <kbd>Insert</kbd> and <kbd>Alt</kbd> represents Window's <kbd>Ctrl</kbd> , which is not presented on Magic Keyboard. Keyboard backlight is working properly as well.
+Functioning normally except the <kbd>Insert</kbd> , which is not presented on Magic Keyboard.And <kbd>Alt</kbd> represents Window's <kbd>Ctrl</kbd>.
 
 #### SSD
 
@@ -86,6 +80,10 @@ Functioning normally.
 #### Trackpad & Trackpoint
 
 Functioning normally. Trackpoint and UltraNavs are working properly as well.
+
+#### Wireless Card
+
+Functioning normally.
 
 ## Recommended BIOS Config
 
