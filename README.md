@@ -41,7 +41,7 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 
 #### CPU
 
-XCPM power management is native supported. HWP is fully enabled as well.
+Functioning normally.Frequency conversion is normal.
 
 #### Battery
 
@@ -83,7 +83,7 @@ Functioning normally. Trackpoint and UltraNavs are working properly as well.
 
 #### Wireless Card
 
-Functioning normally.
+Functioning normally.**Credit  [@zxystd's AirportItlwm](https://github.com/OpenIntelWireless/itlwm)**
 
 ## Recommended BIOS Config
 
@@ -113,3 +113,7 @@ If you have faced some strange issue (like audio device is not found) after boot
 
 ## Questions and Issues
   - If you have any questions,just push your issues on the Github , maybe l will help you!
+  
+## Credits
+  - [@zxystd](https://github.com/zxystd) for [Intel WIFI Drive](https://github.com/OpenIntelWireless/itlwm)
+  - [@Acidanthera](https://github.com/acidanthera) for basic kexts.
