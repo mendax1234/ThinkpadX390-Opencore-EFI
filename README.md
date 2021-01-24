@@ -2,6 +2,9 @@
 
 ## Intro
  **This includes an EFI(Opencore) which works perfectly on Thinkpad-X390.**
+ 
+## Download
+**You can click this button or turn to the "Releases" page yourself and download the latest version [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/0.6.5/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
 
 # ThinkPad X390 Hackintosh
 macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
@@ -33,8 +36,81 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 | Sound Card | Realtek High Defination Audio@Intel Intel Smart Sound Technology Audio Controller (layoutid:11) |
 | Wireless Card |  Intel(R) Wireless-AC 9560 160MHz |
 
-## Download
-**You can click this button or turn to the "Releases" page yourself and download the latest version [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/0.6.5/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
+
+## What is working
+
+#### CPU
+
+XCPM power management is native supported. HWP is fully enabled as well.
+
+#### Battery
+
+The power display is functioning normally.
+
+#### Wi-Fi
+
+The OEM wireless model is `Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC`. Suggest replacing it with BCM94352Z (DM1560).
+
+> BCM94350ZAE (DW1820A) might work with disabled pins. Not recommended.
+
+#### USB
+
+USB Ports Patching with HackinTool, `5 Gbps` for USB 3.0 (Dev Speed).
+
+#### Ethernet
+
+Functioning normally.
+
+#### Display
+
+The model of Integrated Graphics is `Intel UHD Graphics 620`, faked to `Intel HD Graphics 620`. VRAM has been set to 3072 MB.
+
+The Discrete Graphics' name is `Radeon (TM) RX 550 (2GB)`. Disabled because macOS doesn't support Optimus technology.
+
+The HDMI is attached with `Intel UHD Graphics 620` and is functioning normally. `2K@60Hz` & `4K@30Hz` are supported.
+
+#### Audio
+
+Driven by AppleALC with `layout-id: 15`. Everything is working normally.
+
+#### Keyboard
+
+Functioning normally except the <kbd>Insert</kbd> key, which is not presented on Magic Keyboard. Keyboard backlight is working properly as well.
+
+#### SSD
+
+NVMe is functioning normally and TRIM is enabled for it.
+
+#### Bluetooth
+
+Functioning normally.
+
+#### Trackpad & Trackpoint
+
+Functioning normally. Trackpoint and UltraNavs are working properly as well.
+
+## Recommended BIOS Config
+
+> Make sure you have disabled Windows login password before entering the BIOS, because you might not be able to login with "PIN" on Windows after configuring your BIOS as following.
+
+- Security
+  - Intel SGX: Disabled
+- Boot
+  - Boot Mode: Both UEFI and Legacy
+  - Boot Priority: UEFI First
+  - Fast Boot: Disabled
+
+## Tips
+
+### Hibernation
+
+Hibernation is supported.
+
+### Audio Issue
+
+If you have faced some strange issue (like audio device is not found) after booting from Windows to macOS, you should reboot back to Windows and has a cold reboot (shutdown then start up) back to macOS. After that your audio device should be back.
+
+> If you are using Parallel Desktop with Boot Camp mode on your hacintosh, you should not reboot directly in macOS for the same reason. You should manually shutdown Windows in Parallel Desktop, and then have your macOS cold rebooted (shutdown then start up).
 
 ## Further more help
   - For further learning please turn to http://bbs.pcbeta.com/viewthread-1852139-1-1.html
