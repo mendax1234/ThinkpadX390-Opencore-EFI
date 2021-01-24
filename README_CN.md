@@ -113,7 +113,7 @@ NVMe 功能正常并且开启了TRIM.
   - 如需了解更多，请移步 [远景论坛]( http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
 
 ## 疑问
-  - 如果有任何问题，欢迎提出！
+  - 如果你有任何问题，尽管在Github上提出来，也许我会帮助你!
   
 ## 鸣谢
   - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
