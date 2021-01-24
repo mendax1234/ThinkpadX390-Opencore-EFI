@@ -115,7 +115,7 @@ If you have faced some strange issue (like audio device is not found) after boot
   - If you have any questions,just push your issues on the Github , maybe l will help you!
   
 ## Credits
-  - [@zxystd](https://github.com/zxystd) for [Intel WIFI Drive](https://github.com/OpenIntelWireless/itlwm)
+  - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
   - [@Acidanthera](https://github.com/acidanthera) for basic kexts.
   - [@BAndysc](https://github.com/BAndysc) for [Trackpoint and UltraNavs drive](https://github.com/BAndysc/VoodooPS2/tree/master)
   
