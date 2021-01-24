@@ -9,12 +9,14 @@
 |:---|:---|
 | Computer Model | ThinkPad X390 (39CD) |
 | CPU | Intel Core i5-8265U |
-| Memory | DDR4 2400 Mhz. On board 8 GB |
-| NVMe SSD | Manually change to Lenovo SL700 M.2 512 GB |
+| Mainboard |  Lenevo 20Q00039CD（I/O - 9D84 for mobile 8th Gen Intel Core processor family） |
+| Displayer | Lenevo LEN4094 ( 13.3 inch  ) |
+| Memory | DDR4 2667 Mhz. Onboard 8 GB |
+| NVMe SSD | WDC PC SN730 SDBQNTY-256G-1001 (256G/SSD) |
 | Integrated Graphics | Intel UHD Graphics 620 |
-| Ethernet | RTL8168/8111/8112 Gigabit Ethernet Controller |
-| Sound Card | Conexant CX20753/4 (layout-id: 15) |
-| Wireless Card | Intel AC 9560 |
+| Ethernet |  Intel(R) Ethernet Connection (6) I219-V |
+| Sound Card | Realtek High Defination Audio@Intel Intel Smart Sound Technology Audio Controller (layoutid:11) |
+| Wireless Card |  Intel(R) Wireless-AC 9560 160MHz |
 
 ## Download
 **You can click this button or turn to the "Releases" page yourself and download the latest version [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/0.6.5/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
