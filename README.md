@@ -130,6 +130,7 @@ If you have faced some strange issue (like audio device is not found) after boot
 ## Questions and Issues
   - If you have any questions,just push your issues on the Github , maybe l will help you!
   - Or If you have other questions or feedback, feel free to [![Gitter](https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg)](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+  - We only accept bug reports in GitHub Issues, before opening an issue, you're recommended to reconfirm it with us on [Gitter](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
   
 ## Credits
   - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
