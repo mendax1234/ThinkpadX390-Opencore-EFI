@@ -120,6 +120,7 @@ NVMe 功能正常并且开启了TRIM.
 
 ## 疑问
   - 如果你有任何问题，尽管在Github上提出来，也许我会帮助你!
+  - 或者你有其他别的问题，欢迎在[![Gitter](https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg)](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)上提出！
   
 ## 鸣谢
   - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
