@@ -129,6 +129,7 @@ If you have faced some strange issue (like audio device is not found) after boot
 
 ## Questions and Issues
   - If you have any questions,just push your issues on the Github , maybe l will help you!
+  - Or If you have other questions or feedback, feel free to [![Gitter](https://badges.gitter.im/ThinkPad-Hackintosh-Opencore/ThinkPad-Hackintosh.svg)](https://gitter.im/ThinkPad-Hackintosh-Opencore/ThinkPad-Hackintosh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
   
 ## Credits
   - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
