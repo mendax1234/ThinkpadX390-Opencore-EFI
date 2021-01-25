@@ -121,9 +121,11 @@ NVMe 功能正常并且开启了TRIM.
 ## 疑问
   - 如果你有任何问题，尽管在Github上提出来，也许我会帮助你!
   - 或者你有其他别的问题，欢迎在[![Gitter](https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg)](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)上提出！
+  - 我们只接受在GitHub issues的bug报告，在打开一个issue之前，建议您在[Gitter](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=share-link&utm_medium=link&utm_campaign=share-link)上与我们重新确认它
   
 ## 鸣谢
-  - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
+  - [Apple](https://www.apple.com) for [macOS](https://www.apple.com/macos)
+  - [@zxystd](https://github.com/zxystd) for developing [itlwm](https://github.com/OpenIntelWireless/itlwm)
   - [@Acidanthera](https://github.com/acidanthera) for basic kexts.
   - [@BAndysc](https://github.com/BAndysc) for [Trackpoint and UltraNavs drive](https://github.com/BAndysc/VoodooPS2/tree/master)
   - [@SukkaW](https://github.com/SukkaW) for [Text and Templates](https://github.com/SukkaW/ThinkPad-E480-Hackintosh)
