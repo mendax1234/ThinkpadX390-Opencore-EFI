@@ -133,7 +133,8 @@ If you have faced some strange issue (like audio device is not found) after boot
   - We only accept bug reports in GitHub Issues, before opening an issue, you're recommended to reconfirm it with us on [Gitter](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
   
 ## Credits
-  - [@zxystd](https://github.com/zxystd) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
+  - [Apple](https://www.apple.com) for [macOS](https://www.apple.com/macos)
+  - [zxystd](https://github.com/zxystd) for developing [itlwm](https://github.com/OpenIntelWireless/zxystd)
   - [@Acidanthera](https://github.com/acidanthera) for basic kexts.
   - [@BAndysc](https://github.com/BAndysc) for [Trackpoint and UltraNavs drive](https://github.com/BAndysc/VoodooPS2/tree/master)
   - [@SukkaW](https://github.com/SukkaW) for [Text and Templates](https://github.com/SukkaW/ThinkPad-E480-Hackintosh)
