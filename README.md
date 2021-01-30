@@ -125,7 +125,7 @@ If you have faced some strange issue (like audio device is not found) after boot
 > If you are using Parallel Desktop with Boot Camp mode on your hacintosh, you should not reboot directly in macOS for the same reason. You should manually shutdown Windows in Parallel Desktop, and then have your macOS cold rebooted (shutdown then start up).
 
 ## Further more help
-  - For further learning please turn to http://bbs.pcbeta.com/viewthread-1852139-1-1.html
+  - For further learning please turn to [pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html) & [CSDN](https://blog.csdn.net/weixin_45498173/article/details/113092016)
 
 ## Questions and Issues
   - If you have any questions,just push your issues on the Github , maybe l will help you!
