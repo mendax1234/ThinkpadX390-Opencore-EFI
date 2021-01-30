@@ -116,7 +116,7 @@ NVMe 功能正常并且开启了TRIM.
 > 同样的原因。您应该在并行桌面中手动关闭Windows，然后重新启动macOS(先关闭再启动)。
 
 ## 更多帮助
-  - 如需了解更多，请移步 [远景论坛]( http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
+  - 如需了解更多，请移步 [远景论坛]( http://bbs.pcbeta.com/viewthread-1852139-1-1.html) & [CSDN](https://blog.csdn.net/weixin_45498173/article/details/113092016)
 
 ## 疑问
   - 如果你有任何问题，尽管在Github上提出来，也许我会帮助你!
