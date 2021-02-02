@@ -34,6 +34,7 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 **Big Sur**
 - 11.0.1
 - 11.1
+- 11.2
 
 ## 设备
 
