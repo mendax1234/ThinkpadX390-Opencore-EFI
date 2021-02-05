@@ -12,7 +12,7 @@
 
 ## Download
 
-**你可以按下此按钮或者转到"Releases"界面去下载最新版本的EFI [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/0.6.5/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
+**你可以按下此按钮或者转到"Releases"界面去下载最新版本的EFI [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
 
 ## 声明
 
