@@ -6,22 +6,40 @@
 
 # ThinkpadX390-Opencore-EFI
 
+# 目录
+
+- [介绍](#介绍)
+- [下载](#下载)
+- [声明](#声明)
+- [ThinkPad X390 Hackintosh](#ThinkPad-X390-Hackintosh)
+  - [测试过的系统](#测试过的系统)
+- [设备](#设备)
+- [正常工作的部分](#正常工作的部分)
+  - [详细的设备驱动情况](#详细的设备驱动情况)
+- [已知的问题](#已知的问题)
+- [推荐的BIOS配置](#推荐的BIOS配置)
+- [补充](#补充)
+- [更多帮助](#更多帮助)
+- [疑问](#疑问)
+- [鸣谢](#鸣谢)
+
 ## 介绍
 
 **这包括一个EFl(Opencore)，它在Thinkpad-X390上工作完美**
 
-## Download
+## 下载
 
 **你可以按下此按钮或者转到"Releases"界面去下载最新版本的EFI [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/total?style=plastic)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)**
 
 ## 声明
 
 你的保修单现在无效了。如果你有任何顾虑，请在我的 EFI 取代你的 EFl 之前做一些研究。我不负责任何损失，包括但不限于内核恐慌，设备无法启动或不能正常工作，存储损坏或数据丢失，原子弹爆炸，第三次世界大战，谷歌和苹果都倒闭，等等
-## ThinkPad X390 Hackintosh
 
-macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
+## ThinkPad-X390-Hackintosh
 
-### 测试过的系统:
+可以完美地在ThinkPad X390上安装*Catalina/Big Sur*或者任何之前的版本，如*Mojave , High Sierra , Sierra , EI Captain , Yosemite , Mavericks ……*
+
+### 测试过的系统
 
 **Catalina**
 - 10.15.2
@@ -54,6 +72,8 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 
 ## 正常工作的部分
 
+### 详细的设备驱动情况
+
 #### CPU
 
 功能正常。变频正常。
@@ -67,13 +87,18 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 功能正常。
 
 #### 显卡
+
 集成显卡的型号是`Intel UHD Graphics 620`，仿冒`Intel UHD Graphics 630 (Mobile) `
 HDMI与`Intel UHD Graphics 620` 连接，功能正常。支持`2K@60Hz` & `4K@30Hz` 。
+
 #### 声卡
+
 用AppleALC正常驱动`layout-id: 11`. 一切功能都正常。
 
 #### 键盘
+
 功能正常，除了 <kbd>Insert</kbd>，Magic Keyboard上没有。<kbd>Alt</kbd> 表示Windows上的<kbd>Ctrl</kbd>。
+
 #### 硬盘
 
 NVMe 功能正常并且开启了TRIM.
@@ -82,12 +107,17 @@ NVMe 功能正常并且开启了TRIM.
 
 功能正常。
 
-#### 触控板 & 小红点
+#### 触控板和小红点
 
 功能正常。Trackpoint和ultranav也工作正常
+
 #### 无线网卡
 
 功能部分正常.**感谢  [@zxystd's AirportItlwm](https://github.com/OpenIntelWireless/itlwm)**
+
+#### 内置摄像头
+
+已使用正确的USBInjectAll.kext完美驱动，功能正常。
 
 
 ## 已知的问题
