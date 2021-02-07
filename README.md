@@ -14,23 +14,10 @@
   - [Tested on](#Tested-on)
 - [Devices](#Devices)
 - [What is working](#What-is-working)
-  - [CPU](#CPU)
-  - [Battery](#Battery)
-  - [USB](#USB)
-  - [Ethernet](#Ethernet)
-  - [Display](#Display)
-  - [Audio](#Audio)
-  - [Keyboard](#Keyboard)
-  - [SSD](#SSD)
-  - [Bluetooth](#Bluetooth)
-  - [Trackpad & Trackpoin](#Trackpad - Trackpoint)
-  - [Wireless Card](#Wireless-Card)
-  - [Integrated Camera](#Integrated-Camera)
+  - [Detailed Device Drivers](#Detailed-Device-Drivers)
 - [What is not working](#What-is-not-working)
 - [Recommended BIOS Config](#Recommended-BIOS-Config)
 - [Tips](#Tips)
-  - [Hibernation](#Hibernation)
-  - [Audio Issue](#Audio-Issue)
 - [Further more help](#Further-more-help)
 - [Questions and Issues](#Questions-and-Issues)
 - [Credits](#Credits)
@@ -83,6 +70,8 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 
 ## What-is-working
 
+### Detailed-Device-Drivers
+
 #### CPU
 
 Functioning normally.Frequency conversion is normal.
@@ -121,7 +110,7 @@ NVMe is functioning normally and TRIM is enabled for it.
 
 Functioning normally.
 
-#### Trackpad - Trackpoint
+#### Trackpad-Trackpoint
 
 Functioning normally. Trackpoint and UltraNavs are working properly as well.
 
