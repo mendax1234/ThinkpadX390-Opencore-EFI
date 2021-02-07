@@ -6,6 +6,36 @@
 
 # ThinkpadX390-Opencore-EFI
 
+# Contents
+- [Intro](#Intro)
+- [Download](#Download)
+- [Disclaimer](#Disclamier)
+- [ThinkPad-X390-Hackintosh](#ThinkPad X390 Hackintosh)
+  - [Tested-on](#Tested on)
+- [Devices](#Devices)
+- [What is working](#What is working)
+  - [CPU](#CPU)
+  - [Battery](#Battery)
+  - [USB](#USB)
+  - [Ethernet](#Ethernet)
+  - [Display](#Display)
+  - [Audio](#Audio)
+  - [Keyboard](#Keyboard)
+  - [SSD](#SSD)
+  - [Bluetooth](#Bluetooth)
+  - [Trackpad & Trackpoin](#Trackpad & Trackpoin)
+  - [Wireless Card](#Wireless Card)
+  - [Integrated Camera](#Integrated Camera)
+- [What is not working](#What is not working)
+- [Recommended BIOS Config](#Recommended BIOS Config)
+- [Tips](#Tips)
+  - [Hibernation](#Hibernation)
+  - [Audio Issue](#Audio Issue)
+- [Further more help](#Further more help)
+- [Questions and Issues](#Questions and Issues)
+- [Credits}(#Credits)
+
+
 ## Intro
  **This includes an EFI(Opencore) which works perfectly on Thinkpad-X390.**
  
@@ -98,6 +128,10 @@ Functioning normally. Trackpoint and UltraNavs are working properly as well.
 #### Wireless Card
 
 Functioning part normally.**Credit  [@zxystd's AirportItlwm](https://github.com/OpenIntelWireless/itlwm)**
+
+#### Integrated Camera
+
+Functioning noremally with the right USBInjectAll.kext.
 
 
 ## What is not working
