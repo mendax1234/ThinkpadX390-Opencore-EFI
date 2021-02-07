@@ -1,6 +1,6 @@
 [English](README.md) | **中文**
 
- [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/total?style=download)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)
+[![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/total?style=download)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases)
 
 <div align="center">
 <img src="https://img14.360buyimg.com/n0/jfs/t1/122699/10/10858/75075/5f4708e1Eb80b55c6/f276218d450b6840.jpg" width="350px">
