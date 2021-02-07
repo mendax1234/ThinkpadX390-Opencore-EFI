@@ -23,7 +23,7 @@
   - [Keyboard](#Keyboard)
   - [SSD](#SSD)
   - [Bluetooth](#Bluetooth)
-  - [Trackpad & Trackpoin](#Trackpad - Trackpoin)
+  - [Trackpad & Trackpoin](#Trackpad - Trackpoint)
   - [Wireless Card](#Wireless-Card)
   - [Integrated Camera](#Integrated-Camera)
 - [What is not working](#What-is-not-working)
