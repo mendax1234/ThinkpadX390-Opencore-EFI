@@ -9,11 +9,11 @@
 # Contents
 - [Intro](#Intro)
 - [Download](#Download)
-- [Disclaimer](#Disclamier)
-- [ThinkPad-X390-Hackintosh](#ThinkPad X390 Hackintosh)
-  - [Tested-on](#Tested on)
+- [Disclaimer](#Disclaimer)
+- [ThinkPad X390 Hackintosh](#ThinkPad-X390-Hackintosh)
+  - [Tested on](#Tested-on)
 - [Devices](#Devices)
-- [What is working](#What is working)
+- [What is working](#What-is-working)
   - [CPU](#CPU)
   - [Battery](#Battery)
   - [USB](#USB)
@@ -23,17 +23,17 @@
   - [Keyboard](#Keyboard)
   - [SSD](#SSD)
   - [Bluetooth](#Bluetooth)
-  - [Trackpad & Trackpoin](#Trackpad & Trackpoin)
-  - [Wireless Card](#Wireless Card)
-  - [Integrated Camera](#Integrated Camera)
-- [What is not working](#What is not working)
-- [Recommended BIOS Config](#Recommended BIOS Config)
+  - [Trackpad & Trackpoin](#Trackpad - Trackpoin)
+  - [Wireless Card](#Wireless-Card)
+  - [Integrated Camera](#Integrated-Camera)
+- [What is not working](#What-is-not-working)
+- [Recommended BIOS Config](#Recommended-BIOS-Config)
 - [Tips](#Tips)
   - [Hibernation](#Hibernation)
-  - [Audio Issue](#Audio Issue)
-- [Further more help](#Further more help)
-- [Questions and Issues](#Questions and Issues)
-- [Credits}(#Credits)
+  - [Audio Issue](#Audio-Issue)
+- [Further more help](#Further-more-help)
+- [Questions and Issues](#Questions-and-Issues)
+- [Credits](#Credits)
 
 
 ## Intro
@@ -46,11 +46,11 @@
 
 Your warranty is now void. Please do some research if you have any concerns before replacing your EFI with mine. I am not responsible for any loss, including but not limited to Kernel Panic, device fail to boot or can not function normally, storage damage or data loss, atomic bombing, World War III, Google and Apple both go into liquidation, and so on.
 
-## ThinkPad X390 Hackintosh
+## ThinkPad-X390-Hackintosh
 
 macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 
-### Tested on:
+### Tested-on:
 
 **Catalina**
 - 10.15.2
@@ -81,7 +81,7 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 | Wireless Card |  Intel(R) Wireless-AC 9560 160MHz |
 
 
-## What is working
+## What-is-working
 
 #### CPU
 
@@ -121,24 +121,24 @@ NVMe is functioning normally and TRIM is enabled for it.
 
 Functioning normally.
 
-#### Trackpad & Trackpoint
+#### Trackpad - Trackpoint
 
 Functioning normally. Trackpoint and UltraNavs are working properly as well.
 
-#### Wireless Card
+#### Wireless-Card
 
 Functioning part normally.**Credit  [@zxystd's AirportItlwm](https://github.com/OpenIntelWireless/itlwm)**
 
-#### Integrated Camera
+#### Integrated-Camera
 
 Functioning noremally with the right USBInjectAll.kext.
 
 
-## What is not working
+## What-is-not-working
 
 - Airdrops and Handoff Fail to work properly.
 
-## Recommended BIOS Config
+## Recommended-BIOS-Config
 
 > Make sure you have disabled Windows login password before entering the BIOS, because you might not be able to login with "PIN" on Windows after configuring your BIOS as following.
 
@@ -153,16 +153,16 @@ Functioning noremally with the right USBInjectAll.kext.
 
 Hibernation is supported.
 
-### Audio Issue
+### Audio-Issue
 
 If you have faced some strange issue (like audio device is not found) after booting from Windows to macOS, you should reboot back to Windows and has a cold reboot (shutdown then start up) back to macOS. After that your audio device should be back.
 
 > If you are using Parallel Desktop with Boot Camp mode on your hacintosh, you should not reboot directly in macOS for the same reason. You should manually shutdown Windows in Parallel Desktop, and then have your macOS cold rebooted (shutdown then start up).
 
-## Further more help
+## Further-more-help
   - For further learning please turn to [pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html) & [CSDN](https://blog.csdn.net/weixin_45498173/article/details/113092016)
 
-## Questions and Issues
+## Questions-and-Issues
   - If you have any questions,just push your issues on the Github , maybe l will help you!
   - Or If you have other questions or feedback, feel free to [![Gitter](https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg)](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
   - We only accept bug reports in GitHub Issues, before opening an issue, you're recommended to reconfirm it with us on [Gitter](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
