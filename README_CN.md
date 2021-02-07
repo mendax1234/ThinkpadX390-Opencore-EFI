@@ -31,7 +31,7 @@
 
 ## 下载
 
-**你可以按下此按钮 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mendax1234/ThinkpadX390-Opencore-EFI) 或者转到"Releases"界面去下载最新版本的EFI**
+**你可以按下此按钮 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/mendax1234/ThinkpadX390-Opencore-EFI)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases) 或者转到"Releases"界面去下载最新版本的EFI**
 
 ## 声明
 
