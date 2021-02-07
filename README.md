@@ -30,7 +30,7 @@
  **This includes an EFI(Opencore) which works perfectly on Thinkpad-X390.**
  
 ## Download
-**You can click this button ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mendax1234/ThinkpadX390-Opencore-EFI) or turn to the "Releases" page yourself and download the latest version**
+**You can click this button ![GitHub release (latest by date)](https://img.shields.io/github/release/mendax1234/ThinkpadX390-Opencore-EFI) or turn to the "Releases" page yourself and download the latest version**
 
 ## Disclaimer
 
