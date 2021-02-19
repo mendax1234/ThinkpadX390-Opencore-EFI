@@ -107,7 +107,7 @@ Driven by AppleALC with `layout-id: 11`. Everything is working normally.
 
 #### Keyboard
 
-Functioning normally except the <kbd>Insert</kbd> , which is not presented on Magic Keyboard.And <kbd>Alt</kbd> represents Window's <kbd>Ctrl</kbd>.
+Functioning normally except the <kbd>Insert</kbd> , which is not presented on Magic Keyboard.And <kbd>Windows</kbd> represents Window's <kbd>Ctrl</kbd>.
 
 #### SSD
 
