@@ -1,5 +1,7 @@
 [English](README.md) | **中文**
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ThinkpadX390-Opencore-EFI.ThinkpadX390-Opencore-EFI)
+
 [![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/total?label=Download)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases) [![Gitter](https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg)](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![GitHub issues](https://img.shields.io/github/issues-raw/mendax1234/ThinkpadX390-Opencore-EFI?label=Open%20issues)](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/mendax1234/ThinkpadX390-Opencore-EFI?label=Pull%20requests)](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/pulls)
 
 [使用说明](https://github.com/mendax1234/Pi-introduction)
@@ -58,6 +60,10 @@
 - 11.1
 - 11.2
 - 11.2.1
+- 11.2.2
+- 11.2.3
+- 11.3
+- 11.3.1
 
 ## 设备
 
