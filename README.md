@@ -76,7 +76,7 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 | Mainboard |  Lenevo 20Q00039CD（I/O - 9D84 for mobile 8th Gen Intel Core processor family） |
 | Displayer | Lenevo LEN4094 ( 13.3 inch  ) |
 | Memory | DDR4 2667 Mhz. Onboard 8 GB |
-| NVMe SSD | WDC PC SN730 SDBQNTY-256G-1001 (256G/SSD) |
+| NVMe SSD | WDC PC SN730 SDBQNTY-256G-1001 (256G/SSD) / Samsung SSD 980 1TB |
 | Integrated Graphics | Intel UHD Graphics 620 |
 | Ethernet |  Intel(R) Ethernet Connection (6) I219-V |
 | Sound Card | Realtek High Defination Audio@Intel Intel Smart Sound Technology Audio Controller (layoutid:11) |
