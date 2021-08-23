@@ -1,5 +1,7 @@
 [English](README.md) | **中文**
 
+﻿<h1 align="center"> Hackintosh the Thinkpad X390 </h1>
+
 <p align="center">
   <a href="visitors">
   <img src="https://visitor-badge.glitch.me/badge?page_id=ThinkpadX390-Opencore-EFI.ThinkpadX390-Opencore-EFI"/> </a>
