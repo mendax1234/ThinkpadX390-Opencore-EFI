@@ -12,16 +12,16 @@
   <img src="https://img.shields.io/badge/macOS-11.5.2-blue"/> </a>
   <a href="https://github.com/acidanthera/OpenCorePkg">
   <img src="https://img.shields.io/badge/OpenCore-0.7.2-green"/> </a>
-  <a href="/LICENSE">
-  <img src="https://img.shields.io/badge/license-MIT-purple"/> </a>
   <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/commits/master"> 
   <img src="https://img.shields.io/github/last-commit/mendax1234/ThinkpadX390-Opencore-EFI"/> </a>
-  <a href="https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"> 
-  <img src="https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg"/> </a>
   <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/issues"> 
   <img src="https://img.shields.io/github/issues-raw/mendax1234/ThinkpadX390-Opencore-EFI?label=Open%20issues"/> </a>
   <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/pulls"> 
   <img src="https://img.shields.io/github/issues-pr/mendax1234/ThinkpadX390-Opencore-EFI?label=Pull%20requests"/> </a>
+   <a href="/LICENSE">
+  <img src="https://img.shields.io/badge/license-GNU%20GPL%20v2.0-purple"/> </a>
+   <a href="https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"> 
+  <img src="https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg"/> </a>
 
 </p>
   
