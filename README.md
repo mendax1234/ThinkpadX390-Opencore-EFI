@@ -13,7 +13,7 @@
   <a href="https://developer.apple.com/documentation/macos-release-note">
   <img src="https://img.shields.io/badge/macOS-11.5.2-blue"/> </a>
   <a href="https://github.com/acidanthera/OpenCorePkg">
-  <img src="https://img.shields.io/badge/OpenCore-0.7.2-green"/> </a>
+  <img src="https://img.shields.io/badge/OpenCore-0.7.1-green"/> </a>
   <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/commits/master"> 
   <img src="https://img.shields.io/github/last-commit/mendax1234/ThinkpadX390-Opencore-EFI"/> </a>
   <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/issues"> 
