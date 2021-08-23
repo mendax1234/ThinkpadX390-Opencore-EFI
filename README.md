@@ -1,9 +1,30 @@
 **English** | [中文](README_CN.md)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ThinkpadX390-Opencore-EFI.ThinkpadX390-Opencore-EFI)
+<p align="center">
+  <a href="visitors">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ThinkpadX390-Opencore-EFI.ThinkpadX390-Opencore-EFI"/> </a>
+  <a href="https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases">
+  <img src="https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/total?label=Download"/> </a>
+</p>
 
-[![Download from https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases](https://img.shields.io/github/downloads/mendax955/ThinkpadX390-Opencore-EFI/total?label=Download)](https://github.com/mendax955/ThinkpadX390-Opencore-EFI/releases) [![Gitter](https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg)](https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![GitHub issues](https://img.shields.io/github/issues-raw/mendax1234/ThinkpadX390-Opencore-EFI?label=Open%20issues)](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/mendax1234/ThinkpadX390-Opencore-EFI?label=Pull%20requests)](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/pulls)
+<p align="center">
+  <a href="https://developer.apple.com/documentation/macos-release-note">
+  <img src="https://img.shields.io/badge/macOS-11.5.2-blue"/> </a>
+  <a href="https://github.com/acidanthera/OpenCorePkg">
+  <img src="https://img.shields.io/badge/OpenCore-0.7.2-green"/> </a>
+  <a href="/LICENSE">
+  <img src="https://img.shields.io/badge/license-MIT-purple"/> </a>
+  <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/commits/master"> 
+  <img src="https://img.shields.io/github/last-commit/mendax1234/ThinkpadX390-Opencore-EFI"/> </a>
+  <a href="https://gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"> 
+  <img src="https://badges.gitter.im/ThinkpadX390-Opencore-EFI/Hackintosh-ThinkPad.svg"/> </a>
+  <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/issues"> 
+  <img src="https://img.shields.io/github/issues-raw/mendax1234/ThinkpadX390-Opencore-EFI?label=Open%20issues"/> </a>
+  <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/pulls"> 
+  <img src="https://img.shields.io/github/issues-pr/mendax1234/ThinkpadX390-Opencore-EFI?label=Pull%20requests"/> </a>
 
+</p>
+  
 [Instructions](https://github.com/mendax1234/Pi-introduction)
 
 <div align="center">
