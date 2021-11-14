@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://developer.apple.com/documentation/macos-release-note">
-  <img src="https://img.shields.io/badge/macOS-11.5.2-blue"/> </a>
+  <img src="https://img.shields.io/badge/macOS-12.0.1-blue"/> </a>
   <a href="https://github.com/acidanthera/OpenCorePkg">
   <img src="https://img.shields.io/badge/OpenCore-0.7.1-green"/> </a>
   <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI/commits/main"> 
@@ -28,6 +28,10 @@
 </p>
   
 [Instructions](https://github.com/mendax1234/Pi-introduction)
+
+<div align="center">
+  Now the EFI supports macOS 12 Monterey , l will soon update the EFI.
+</div>
 
 <div align="center">
 <img src="https://img14.360buyimg.com/n0/jfs/t1/122699/10/10858/75075/5f4708e1Eb80b55c6/f276218d450b6840.jpg" width="350px">
