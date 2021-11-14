@@ -30,7 +30,7 @@
 [Instructions](https://github.com/mendax1234/Pi-introduction)
 
 <div align="center">
-  Now the EFI supports macOS 12 Monterey , l will soon update the EFI.
+  Now the EFI supports macOS 12 Monterey , l will soon update the related files.
 </div>
 
 <div align="center">
