@@ -95,6 +95,10 @@ macOS Catalina/Big Sur on ThinkPad X390 (Hackintosh).
 - 11.5
 - 11.5.1
 - 11.5.2
+- 11.6.1
+
+**Monterey**
+- 12.0.1
 
 ## Devices
 
