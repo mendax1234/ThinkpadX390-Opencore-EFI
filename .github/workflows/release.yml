@@ -21,5 +21,3 @@ jobs:
         with:
           files: ./EFI.zip
           name: ThinkpadX390-OpenCore-EFI
-        env:
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
