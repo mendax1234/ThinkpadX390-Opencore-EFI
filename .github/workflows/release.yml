@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: master
+          ref: main
       - name: Zip artifact
         run: zip EFI.zip ./* -r
       - name: Release
